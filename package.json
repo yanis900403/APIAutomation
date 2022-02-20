@@ -1,0 +1,21 @@
+{
+  "name": "apiautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^98.0.1",
+    "nightwatch": "^2.0.7",
+    "request": "^2.88.2",
+    "selenium-server": "^3.141.59"
+  },
+  "dependencies": {
+    "geckodriver": "^3.0.1"
+  }
+}
